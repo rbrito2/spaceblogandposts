@@ -5,4 +5,5 @@
 <h1>About </h1>
 <p> This website is a place for me to share my research and interests.
 </p>
-[Check out my blog!](./blogpage.html).
+
+[Check out my blog](./blogpage.html)!
