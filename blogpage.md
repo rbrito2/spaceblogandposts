@@ -3,6 +3,7 @@
 <p> 
         <img src="https://live.staticflickr.com/762/22206338264_e79a1a9775.jpg" alt="SparkFun ESP8266 Thing - Dev Board" style="display: block;" width="500" height="500"
              position="relative"/> <sup>SparkFun ESP8266 Thing - Dev Board" by SparkFunElectronics</sup>  
+        <br><br><br>
  
     I currently work on the Computing subsystem team for the Western University-Nunavut 
     Artic College CubeSat. Through this project we have designed and are going to build
