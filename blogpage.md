@@ -11,12 +11,14 @@
     Onboard Computer (OBC) is the control system. The team developed flight softwate 
     that communicates with other subsystems in the satellite and coordinates the tasks
     that the CubeSat needs to complete. 
-                                                                                                                      
+        
+        <br><br>
     One of the tools I have recently used is a Nucleo F429ZI dev board and STM IDE to 
     test the functionality of our flight software. A dev board is good way to test a
     program that you create. It usually includes a microcontroller, an input/output
     port and some interfaces for passing data to/from the board. 
-  
+        
+        <br><br>
     Using the dev board we can test how the flight software interfaces with other 
     subsystems like the EPS on the cubesat as well as its sensors. We use the dev board 
     to send test data and see how flight software responds. To do this I configured 
