@@ -1,0 +1,23 @@
+.card{
+    width: 16rem;
+}
+.column {
+    float: left;
+    width: 25%;
+    padding: 0 10px;
+  }
+  .card-body{
+    min-height: 200px;
+    max-height: 200px;
+  }
+  .row{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .col{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .card-img-top{
+    max-height: 220px;
+  }
